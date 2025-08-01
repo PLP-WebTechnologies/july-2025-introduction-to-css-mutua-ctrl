@@ -1,0 +1,20 @@
+body{
+color:blue;
+}
+h1{
+  padding:12 px;
+  margin:4 em;
+  color:green;
+}
+p{
+  margin:4 em;
+  padding:14 px;
+  box-sizing:box;
+}
+div{
+  background:black;
+  border:1 px;
+  width:100 px;
+  height:50 px;
+}
+  
